@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+#FROM ubuntu:latest
 
 From python:3.6.5
 RUN apt-get update -y && \
